@@ -1,0 +1,9 @@
+body{
+	background-color: aliceblue;
+}
+.button-wrapper{
+	margin: 10px 0
+}
+#right-buttons{
+ text-align: right;
+}
